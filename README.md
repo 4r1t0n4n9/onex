@@ -1,0 +1,2 @@
+# onex
+File pertama gue
